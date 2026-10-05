@@ -6,7 +6,7 @@
 
     <div class="row g-4">
 
-        <!-- SIDEBAR -->
+        <!-- SIDEBAR --->
         <div class="col-lg-3">
 
     @include('pelanggan.profile.sidebar')
